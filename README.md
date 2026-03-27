@@ -1,4 +1,4 @@
-# 📱 Projetos Flutter 2026
+# Projetos Flutter 2026
 
 ## Introdução
 Este trabalho foi proposto pelo professor Welli Fabio do SENAI, com o objetivo de desenvolver aplicativos utilizando Flutter com navegação entre telas.
@@ -37,6 +37,13 @@ flutter pub get
 ```
 flutter run
 ```
+---
+
+
+## Links Figama
+- Financiamento:
+- Investimento:
+- Bitola:
 
 ---
 
@@ -48,19 +55,19 @@ flutter run
 
 | Tela 1 | Tela 2 | Tela 3 |
 |--------|--------|--------|
-| ![print1](assets/tela1.png) | ![print2](assets/tela2.png) | ![print3](assets/tela3.png) |
+| ![print1](https://github.com/Piemoroni/Atividades-em-flutter/blob/main/prints/financiamento/tela1.png) | ![print2](https://github.com/Piemoroni/Atividades-em-flutter/blob/main/prints/financiamento/tela2.png) | ![print3](https://github.com/Piemoroni/Atividades-em-flutter/blob/main/prints/financiamento/tela%203.png) |
 
 ### Investimento:
 
 | Tela 1 | Tela 2 | Tela 3 |
 |--------|--------|--------|
-| ![print4](assets/tela4.png) | ![print5](assets/tela5.png) | ![print6](assets/tela6.png) |
+| ![print4](https://github.com/Piemoroni/Atividades-em-flutter/blob/main/prints/investimento/tela1.png) | ![print5](https://github.com/Piemoroni/Atividades-em-flutter/blob/main/prints/investimento/tela2.png) | ![print6](https://github.com/Piemoroni/Atividades-em-flutter/blob/main/prints/investimento/tela3.png) |
 
 ## Bitola:
 
 | Tela 1 | Tela 2 | Tela 3 |
 |--------|--------|--------|
-| ![print7](assets/tela7.png) | ![print8](assets/tela8.png) | ![print9](assets/tela9.png) |
+| ![print7](https://github.com/Piemoroni/Atividades-em-flutter/blob/main/prints/bitola/tela1.png) | ![print8](https://github.com/Piemoroni/Atividades-em-flutter/blob/main/prints/bitola/tela2.png) | ![print9](https://github.com/Piemoroni/Atividades-em-flutter/blob/main/prints/bitola/tela3.png) |
 
 ---
 
@@ -72,4 +79,4 @@ flutter run
 ---
 
 ## Autor
-Projeto desenvolvido para fins acadêmicos no SENAI (Análise e Desenvolvimento de Sistemas).# Atividades-em-flutter
+Pietra Moroni, projeto desenvolvido para fins acadêmicos no SENAI (Análise e Desenvolvimento de Sistemas).# Atividades-em-flutter
