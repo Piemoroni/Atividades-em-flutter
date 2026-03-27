@@ -79,4 +79,5 @@ flutter run
 ---
 
 ## Autor
-Pietra Moroni, projeto desenvolvido para fins acadêmicos no SENAI (Análise e Desenvolvimento de Sistemas).# Atividades-em-flutter
+Pietra Moroni
+projeto desenvolvido para fins acadêmicos no SENAI (Análise e Desenvolvimento de Sistemas).# Atividades-em-flutter
