@@ -41,8 +41,8 @@ flutter run
 
 
 ## Links Figama
-- Financiamento: [Clique aqui](https://www.figma.com/proto/UsR2krWursKTxSzCMpdp1q/Untitled?node-id=7-410&t=zQJbtq2t32CWmvIl-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
-- Investimento: [Clique aqui](https://www.figma.com/proto/P93mCZ7BC9xSei0ldJczAX/Untitled?node-id=1-415&p=f&t=Un5PkHzDvR2NRA0M-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A8)
+- Financiamento: [Clique aqui](https://www.figma.com/proto/UsR2krWursKTxSzCMpdp1q/Untitled?node-id=1-2&t=zQJbtq2t32CWmvIl-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+- Investimento: [Clique aqui](https://www.figma.com/proto/P93mCZ7BC9xSei0ldJczAX/Untitled?node-id=1-8&p=f&t=Un5PkHzDvR2NRA0M-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A8)
 - Bitola: [Clique aqui](https://www.figma.com/proto/3Hqpzq5tkDoQrriZqDQ6Tp/Untitled?node-id=1-2&p=f&t=S02NtIYneU34Dob4-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 ---
