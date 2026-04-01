@@ -4,9 +4,9 @@
 Este trabalho foi proposto pelo professor Welli Fabio do SENAI, com o objetivo de desenvolver aplicativos utilizando Flutter com navegação entre telas.
 
 Os projetos foram divididos em repositórios:
-- financiamento2026  
-- investimento2026  
-- bitola2026  
+- financiamento2026 [Clique aqui](https://github.com/Piemoroni/financiamento_flutter)
+- investimento2026 [Clique aqui](https://github.com/Piemoroni/investimentos_flutter)
+- bitola2026  [Clique aqui](https://github.com/Piemoroni/bitola_flutter)
 
 O objetivo principal é praticar a criação de interfaces, navegação entre telas e desenvolvimento de aplicativos mobile.
 
